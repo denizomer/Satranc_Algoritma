@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1636571405 source:c:\users\deniz\desktop\c dersi\satranc_v3\main.cpp
+	<iostream>
+	"Dosya.h"
+	"Tahta.h"
+	"Tas.h"
+	"Kale.h"
+	"At.h"
+	"Fil.h"
+	"Vezir.h"
+	"Sah.h"
+	"Piyon.h"
+
+1636555138 source:c:\users\deniz\desktop\c dersi\satranc_v3\src\tas.cpp
+	"Tas.h"
+	<iostream>
+	<string>
+
+1636565481 c:\users\deniz\desktop\c dersi\satranc_v3\include\tas.h
+	<iostream>
+	<string>
+
+1636562856 source:c:\users\deniz\desktop\c dersi\satranc_v3\src\dosya.cpp
+	"Dosya.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1636564126 c:\users\deniz\desktop\c dersi\satranc_v3\include\dosya.h
+	<iostream>
+	<string>
+	<fstream>
+
+1636571053 source:c:\users\deniz\desktop\c dersi\satranc_v3\src\kale.cpp
+	"Kale.h"
+
+1636571063 c:\users\deniz\desktop\c dersi\satranc_v3\include\kale.h
+	<Tas.h>
+
+1636571111 source:c:\users\deniz\desktop\c dersi\satranc_v3\src\at.cpp
+	"At.h"
+	<iostream>
+
+1636571093 c:\users\deniz\desktop\c dersi\satranc_v3\include\at.h
+	<Tas.h>
+
+1636571127 source:c:\users\deniz\desktop\c dersi\satranc_v3\src\fil.cpp
+	"Fil.h"
+
+1636571136 c:\users\deniz\desktop\c dersi\satranc_v3\include\fil.h
+	<Tas.h>
+
+1636571189 source:c:\users\deniz\desktop\c dersi\satranc_v3\src\vezir.cpp
+	"Vezir.h"
+
+1636571195 c:\users\deniz\desktop\c dersi\satranc_v3\include\vezir.h
+	<Tas.h>
+
+1636567400 source:c:\users\deniz\desktop\c dersi\satranc_v3\src\piyon.cpp
+	"Piyon.h"
+
+1636567392 c:\users\deniz\desktop\c dersi\satranc_v3\include\piyon.h
+	<Tas.h>
+
+1636571168 source:c:\users\deniz\desktop\c dersi\satranc_v3\src\sah.cpp
+	"Sah.h"
+
+1636571159 c:\users\deniz\desktop\c dersi\satranc_v3\include\sah.h
+	<Tas.h>
+
+1636571081 source:c:\users\deniz\desktop\c dersi\satranc_v3\src\tahta.cpp
+	"Tahta.h"
+	<iostream>
+	<string>
+	<Dosya.h>
+	<Tas.h>
+	<Kale.h>
+	<At.h>
+	<Fil.h>
+	<Vezir.h>
+	<Sah.h>
+	<Piyon.h>
+
+1636570126 c:\users\deniz\desktop\c dersi\satranc_v3\include\tahta.h
+	<string>
+	<Dosya.h>
+	<Tas.h>
+

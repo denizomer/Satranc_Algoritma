@@ -1,0 +1,6 @@
+- Kodların CodeBlocks IDE kullanılarak çalıştırılması tavsiye edilir. Diğer IDE'lerde de çalıştırılabilir.
+- Projeyi derleyicide çalıştırmadan önce tüm header ve cpp dosyalarının klasörde göründüğü gibi programa aktarıldığından emin olunmalıdır.
+- Proje klasörünün adı "satranc" 'dır.
+- Proje klasörü içerisindeki "test.txt" dosyasında örnek olarak verilmiş bir txt dosyası vardır. Program bu dosyadan verileri okumaktadır.
+
+NOT: Program derleme hatası almadan çalışmaktadır.
